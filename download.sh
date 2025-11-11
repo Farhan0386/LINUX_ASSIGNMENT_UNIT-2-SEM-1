@@ -1,10 +1,10 @@
 #!/bin/bash
 # Script Name: download.sh
-# Purpose: Download two GitHub repositories as ZIP files
+# Purpose: Download GitHub repositorie 
 # Author: Farhan hussain
 # Date: 10-11-2025
 
-REPO1="https://github.com/Farhan0386/Lab-Assignment-KRMU-Web-Dev-1" 
+REPO1="https://github.com/Farhan0386/KRMU_PYTHON_ASSIGNEMENT_SEM_1" 
 
 DEST_DIR="/home/farhan7860/Downloads/github_repos" 
 mkdir -p "$DEST_DIR"
