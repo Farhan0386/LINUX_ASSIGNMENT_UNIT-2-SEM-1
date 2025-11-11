@@ -2,7 +2,7 @@
 # Script Name: download.sh
 # Purpose: Download GitHub repositorie 
 # Author: Farhan hussain
-# Date: 10-11-2025
+# Date: $(date)
 
 REPO1="https://github.com/Farhan0386/KRMU_PYTHON_ASSIGNEMENT_SEM_1" 
 
